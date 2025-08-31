@@ -52,10 +52,8 @@ Push your repository to GitHub
 
 Go to Settings → Pages → Source → main branch → / (root) → Save
 
-Access your live URL:
-
-https://yourusername.github.io/health-dashboard/
-
+Access your live URL
+(https://github.com/ayenewgirmay21/Smart-Health-Queue.git)
 2. Vercel or Netlify
 
 Import your GitHub repository and deploy with a single click
