@@ -54,8 +54,8 @@ Go to Settings → Pages → Source → main branch → / (root) → Save
 
 Access your live URL
 (https://github.com/ayenewgirmay21/Smart-Health-Queue.git)
-2. Vercel or Netlify
 
+2. Vercel or Netlify
 Import your GitHub repository and deploy with a single click
 
 Both platforms provide a live URL to share instantly
