@@ -53,11 +53,11 @@ Push your repository to GitHub
 Go to Settings → Pages → Source → main branch → / (root) → Save
 
 Access your live URL
+
 (https://github.com/ayenewgirmay21/Smart-Health-Queue.git)
 
 2. Vercel or Netlify
 Import your GitHub repository and deploy with a single click
-
 Both platforms provide a live URL to share instantly
 
 🔮 Future Enhancements
@@ -74,8 +74,6 @@ Push notifications for queue updates and critical patient conditions
 
 📸 Screenshots
 
-Add screenshots of your dashboard here to impress judges!
-
 📄 License
 
 This project is open-source under the MIT License.
@@ -83,7 +81,6 @@ This project is open-source under the MIT License.
 💻 Live Demo
 
 A live demo can be hosted on GitHub Pages, Vercel, or Netlify after deployment.
-
 
 ✅ This version makes:
 
